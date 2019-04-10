@@ -4,9 +4,10 @@
 This is my fave site - cooking blog.
 
 ## Technologies
-HTML
-CSS3 (include flexbox)
-Java Script
+HTML5
+CSS3 (including Flexbox, fixed positioning)
+RWD (Media Queries)
+Java Script (ES6), jQuery (for purpose of toggle and sticky menu)
 
 ## Status
 Project is in progress. I would like to add form for comments.
